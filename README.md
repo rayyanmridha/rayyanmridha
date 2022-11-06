@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayyanmridha
 - 👀 I’m interested in making the world a better place with technology
-- 🌱 I’m currently learning computer science at Los Angeles Pierce College
+- 🌱 I’m currently studying computer science at Los Angeles Pierce College
 - 💞️ I’m looking to collaborate on making applications.
 
 <!---
